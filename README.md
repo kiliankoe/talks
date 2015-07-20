@@ -1,2 +1,3 @@
 # talks
-talks and presentations I've given
+
+See the directories above for more info.
